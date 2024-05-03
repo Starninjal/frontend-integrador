@@ -41,7 +41,6 @@ public class MessageBoxCustom extends Window{
 			
 			@Override
 			public void controlPressed(ControlEvent e) {
-				// TODO Auto-generated method stub
 				unpopWindow();
 			}
 		});
